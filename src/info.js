@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const FullName = '' //Copy and paste your name between the quotes
+export const FullName = 'Josh Hall' //Copy and paste your name between the quotes
 
 export const GithubLink = '' // your Github link within the quotes
 
